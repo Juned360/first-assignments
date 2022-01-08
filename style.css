@@ -1,0 +1,37 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.backgroun-flex{
+    display: flex;
+}
+.tittle{
+   font-size: 60px;
+   border-left: 5px solid;
+   border-color: #FF5959;
+   padding-left: 20px;
+   margin-bottom: 10px;
+}
+.normal-typing{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.Orange-color{
+    color: #FFAD5A;
+}
+.half-width{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 100px;
+}
+.portfoli-link{
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: white;
+   
+}
+.image-fit{
+    width: 90%; 
+}
