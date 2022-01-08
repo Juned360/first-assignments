@@ -1,17 +1,19 @@
 body{
     font-family: 'Lato', sans-serif;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 5%;
+    margin: 5% 0% 0% 0%;
     font-size: 18px;
-
+  
 }
 .backgroun-flex{
     display: flex;
     justify-content: start;
 }
+.content-margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
 .section-devider{
-    margin-top: 8%;
+    margin-top: 10%;
 }
 .tittle{
    font-size: 55px;
@@ -49,12 +51,13 @@ body{
 }
 h2{
     font-size: 45px;
+    padding-bottom: 20px;
 }
 .mission{
     background-color: hsla(186, 36%, 48%, 0.10); 
     border-radius: 20px;
     margin-right: 20px;
-    padding-left: 25px;
+    padding-left: 30px;
     padding-right: 20px;
     padding-bottom: 20px;
 }
@@ -62,14 +65,14 @@ h2{
     background-color: hsla(0, 100%, 67%, 0.10);
     border-radius: 20px;
     margin-right: 20px;
-    padding-left: 25px;
+    padding-left: 30px;
     padding-right: 20px;
     padding-bottom: 20px;
 }
 .goals{
     background-color: #FFF4D6;
     border-radius: 20px;
-    padding-left: 25px;
+    padding-left: 30px;
     padding-right: 20px;
     padding-bottom: 20px;
 }
@@ -99,5 +102,19 @@ h2{
 .blog{
     padding-bottom: 15px;
     padding-right: 10%;
- 
+}
+.footer-heading{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-weight: 200;
+}
+footer{
+    background-color: black;
+    color: #ffffffa6;
+    text-align: center;
+    padding: 2% 0% 3% 0%;
+    margin-top: 10%;
+}
+.year{
+    color: #FF5959;
 }
