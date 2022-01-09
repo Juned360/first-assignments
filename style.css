@@ -57,7 +57,7 @@ body{
 }
 .mission{
     background-color: hsla(186, 36%, 48%, 0.10); 
-    border-radius: 20px;
+    border-radius: 30px;
     margin-right: 20px;
     padding-left: 30px;
     padding-right: 20px;
@@ -65,7 +65,7 @@ body{
 }
 .vission{
     background-color: hsla(0, 100%, 67%, 0.10);
-    border-radius: 20px;
+    border-radius: 30px;
     margin-right: 20px;
     padding-left: 30px;
     padding-right: 20px;
@@ -73,7 +73,7 @@ body{
 }
 .goals{
     background-color: #FFF4D6;
-    border-radius: 20px;
+    border-radius: 30px;
     padding-left: 30px;
     padding-right: 20px;
     padding-bottom: 20px;
@@ -97,7 +97,6 @@ body{
 .content-heading{
     margin-bottom: 10px;
     font-size: 35px;
-    font-weight: 300;
     font-family: 'Inter', sans-serif;
 }
 .blog{
